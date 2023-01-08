@@ -2,3 +2,8 @@
 
 https://www.youtube.com/watch?v=VdGzPZ31ts8
 
+# tutorial Django deploy con railway
+
+https://www.youtube.com/watch?v=Gk6vVERG9Fo
+
+
