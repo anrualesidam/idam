@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qr8&8i@(z2a5y1uc@)^-7xr0nav%**g1mnv8&j8!f3nqe%w@en
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['idam-production.up.railway.app']
+ALLOWED_HOSTS = ['idam-production.up.railway.app/idam/']
 
 
 # Application definition
