@@ -1,13 +1,32 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{% static 'images/icono_idam.ico' %}">
+    <link type="text/css" href="{% static 'css/barraDeNavegacion.css' %}" rel="stylesheet">
     <title>IDAM</title>
 </head>
 <body>
+    <nav class="menu"> <ul> 
+        <li class="logo">
+            <a href="#">IDAM</a>
+        </li> <li class="item">
+            <a href="#">HOME</a>
+        </li> <li class="item">
+            <a href="#">QUIENES SOMOS</a>
+        </li> <li class="item">
+            <a href="#">SERVICIOS</a>
+        </li> <li class="item">
+            <a href="#">CONTACTOS</a>
+        </li> <li class="item button">
+            <a href="#">SIGN IN / SIGN UP</a>
+        </li> </ul> 
+    </nav>
     <h1>IDAM</h1>
+
     
 </body>
 </html>
