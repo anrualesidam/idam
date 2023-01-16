@@ -10,3 +10,14 @@ https://www.youtube.com/watch?v=Gk6vVERG9Fo
 # railway
 
 https://railway.app/
+
+# correos
+
+https://www.youtube.com/watch?v=nNGcvz1Sc_8
+
+https://es.sendinblue.com/?tap_a=30591-fb13f0&tap_s=1560670-047e6c
+
+
+# dominio
+
+https://dash.cloudflare.com/00b8a2e9ac6e317132480a1c2aa9861e/idamm.com.co/dns/records
