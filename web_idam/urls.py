@@ -15,8 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from idam import views 
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('',include('idam.urls'))
+    #path('admin/', admin.site.urls),
+    #path('',include('idam.urls'))
+    path('', views.IndexView,name="home"),
+    path('signIn/', views.signIn,name="signin"),
+    path('contacto/', views.Contacto,name="contacto"),
+    path('nosotros/', views.Aboutus,name="aboutus"),
+    path('postsignIn/', views.postsignIn,name="postsignIn"),
+    path('logout/', views.logout, name="log"),
 ]
